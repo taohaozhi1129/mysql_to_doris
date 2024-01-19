@@ -1,5 +1,5 @@
 # mysql_to_doris
-mysql建表语句批量转为doris建表语句  
+mysql建表语句批量转为doris建表语句 ETL  
 
 ## step 1.  Generate a configuration file and export it
 
